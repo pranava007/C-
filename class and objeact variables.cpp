@@ -15,12 +15,7 @@ class Shop
             
             return money;
         }       
-    
-
-
-
-
-};
+    };
 int main()
 {
 
